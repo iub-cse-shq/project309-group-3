@@ -20,3 +20,34 @@ Step 3:
 ```git
 npm run dev
 ```
+
+1. Registration Page
+
+![](screenshots/adminregistration.png)
+
+2. Login Page
+
+![](screenshots/adminlogin.png)
+
+3. Customer Home Page
+
+![](screenshots/homeuser.png)
+
+
+4. Home Page (Admin)
+
+![](screenshots/homeadmin.png)
+
+5. Add items Page
+
+![](screenshots/additems.png)
+
+6. Menu Page
+
+![](screenshots/menu.png)
+
+7. About us Page
+
+![](screenshots/aboutus.png)
+
+
