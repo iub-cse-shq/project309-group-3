@@ -1,68 +1,74 @@
-**_Welcome to our website_**
+# Welcome to our website
 
-Step 1:
-**Install all dependencies**
+# Topic - Famous Burger
+
+## To get started with the project
+### 1. In Terminal type:
 
 ```git
 npm install
 ```
 
-Step 2:
-**Create .env and type**
+### 2. Create .env and type:
 
 ```git
 PORT=5000
 ```
 
-Step 3:
-**To run**
+### 3. To run the server type:
 
 ```git
 npm run dev
 ```
 
-##USER INTERFACE
+### 4. In browser type **_localhost:5000_** to dispay the index page
 
-1. Registration Page
+<br>
 
-This is the registration form where Admin can create an account. The admin need to know a secret code for creating the account.
+
+# USER INTERFACE
+
+## 1. Registration Page
+
+ This is the registration form where Admin can create an account. The admin need to know a secret code for creating the account.
 *The secret code is 666*
 
 ![](screenshots/adminregistration.png)
 
-2. Login Page
+## 2. Login Page
 
 Every time after initial registration, one will log on to the system using the username and password one has created.
 
 ![](screenshots/adminlogin.png)
 
-3. Customer Home Page
+## 3. Customer Home Page
 
 This page serves as the starting point of the website. It is the default webpage that loads when a customer visits the website.
 
 ![](screenshots/homeuser.png)
 
 
-4. Admin Home Page
+## 4. Admin Home Page
 
 It is the default webpage that loads when the admin logged in to the system.
 
 ![](screenshots/homeadmin.png)
 
-5. Add items Page
+## 5. Add items Page
 
 The admin needs to fill-up this item form to add new items to the menu page on the website.
 
 ![](screenshots/additems.png)
 
-6. Menu Page
+## 6. Menu Page
 
  This page is a list of food and beverages which are offered to customers. 
 
 ![](screenshots/menu.png)
 
-7. About us Page
+## 7. About us Page
 
 ![](screenshots/aboutus.png)
+<br>
 
-
+# *The website is responsive**
